@@ -12,7 +12,6 @@
 /* ====== Body ===== */
 body{
     background: url("../img/bg.png");
-    background-color: violet;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
